@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Text&display=swap");
+* {
+  font-family: "Red Hat Text", sans-serif;
+}
+
+.under-line {
+  border-bottom: 2px solid #de9382;
+  padding-bottom: 0.4rem;
+}
+
+.bttn {
+  background-color: white;
+  color: #de9382;
+  border: 1px solid #de9382;
+  padding: 0.8rem;
+  border-radius: 2%;
+}
+
+.bttn:hover {
+  background-color: #de9382;
+  color: white;
+}
+
+.color {
+  color: #de9382;
+}
+
+.my-footer {
+  border-top: 1px solid #de9382;
+}
