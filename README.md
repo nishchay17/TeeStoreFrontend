@@ -4,7 +4,3 @@
 
 [Website Link](https://theteestore.netlify.app)
 [Backend Link](https://github.com/nishchay17/TeeStoreBackend)
-
-## Screenshots
-
-![Main Screen](screenshot.jpg)
